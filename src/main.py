@@ -1,4 +1,3 @@
-likes = 43 
-likes = 71 
-likes = 28  
-print(likes)
+friends = [ "Batman", "Cat Man", "Fat Man", "Cockroach Man"]
+            
+print(friends[2])
